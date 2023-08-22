@@ -1,0 +1,12 @@
+var jwt = require('jwt-simple'),
+	moment = require('moment'),
+	mongoose = require('mongoose');
+
+
+var expires = moment().add(1, 'years').valueOf(),
+	token = jwt.encode({
+		iss: mongoose.Types.ObjectId("54aae5a232eafd50a4c20223"),
+		exp: expires
+	}, 'b0ht7_xxa3fFS2E12');
+
+console.log(token);

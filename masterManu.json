@@ -1,0 +1,269 @@
+{
+    "ABARTH": {
+        "name": "ABARTH"
+    },
+    "ALFA ROMEO": {
+        "name": "ALFA ROMEO"
+    },
+    "ALPINE": {
+        "name": "ALPINE"
+    },
+    "ASIA": {
+        "name": "ASIA"
+    },
+    "ASTON MARTIN": {
+        "name": "ASTON MARTIN"
+    },
+    "AUDI": {
+        "name": "AUDI"
+    },
+    "AUSTIN": {
+        "name": "AUSTIN"
+    },
+    "BEDFORD": {
+        "name": "BEDFORD"
+    },
+    "BENTLEY": {
+        "name": "BENTLEY"
+    },
+    "BMW": {
+        "name": "BMW"
+    },
+    "CADILLAC": {
+        "name": "CADILLAC"
+    },
+    "CATERHAM": {
+        "name": "CATERHAM"
+    },
+    "CHERY": {
+        "name": "CHERY"
+    },
+    "CHEVROLET": {
+        "name": "CHEVROLET"
+    },
+    "CHRYSLER": {
+        "name": "CHRYSLER"
+    },
+    "CITROEN": {
+        "name": "CITROEN"
+    },
+    "DAEWOO": {
+        "name": "DAEWOO"
+    },
+    "DAIHATSU": {
+        "name": "DAIHATSU"
+    },
+    "DAIMLER": {
+        "name": "DAIMLER"
+    },
+    "DATSUN": {
+        "name": "DATSUN"
+    },
+    "DODGE": {
+        "name": "DODGE"
+    },
+    "FERRARI": {
+        "name": "FERRARI"
+    },
+    "FIAT": {
+        "name": "FIAT"
+    },
+    "FORD": {
+        "name": "FORD"
+    },
+    "FOTON": {
+        "name": "FOTON"
+    },
+    "GEELY": {
+        "name": "GEELY"
+    },
+    "GENESIS": {
+        "name": "GENESIS"
+    },
+    "GMC": {
+        "name": "GMC"
+    },
+    "GREAT WALL MOTORS": {
+        "name": "GREAT WALL MOTORS"
+    },
+    "HAVAL": {
+        "name": "HAVAL"
+    },
+    "HILLMAN": {
+        "name": "HILLMAN"
+    },
+    "HINO": {
+        "name": "HINO"
+    },
+    "HOLDEN": {
+        "name": "HOLDEN"
+    },
+    "HONDA": {
+        "name": "HONDA"
+    },
+    "HUMMER": {
+        "name": "HUMMER"
+    },
+    "HYUNDAI": {
+        "name": "HYUNDAI"
+    },
+    "INFINITI": {
+        "name": "INFINITI"
+    },
+    "ISUZU": {
+        "name": "ISUZU"
+    },
+    "IVECO": {
+        "name": "IVECO"
+    },
+    "JAGUAR": {
+        "name": "JAGUAR"
+    },
+    "JEEP": {
+        "name": "JEEP"
+    },
+    "JMC": {
+        "name": "JMC"
+    },
+    "KIA": {
+        "name": "KIA"
+    },
+    "LADA": {
+        "name": "LADA"
+    },
+    "LAMBORGHINI": {
+        "name": "LAMBORGHINI"
+    },
+    "LANDROVER": {
+        "name": "LANDROVER"
+    },
+    "LDV": {
+        "name": "LDV"
+    },
+    "LEXUS": {
+        "name": "LEXUS"
+    },
+    "LEYLAND": {
+        "name": "LEYLAND"
+    },
+    "LINCOLN": {
+        "name": "LINCOLN"
+    },
+    "LOTUS": {
+        "name": "LOTUS"
+    },
+    "MAHINDRA": {
+        "name": "MAHINDRA"
+    },
+    "MASERATI": {
+        "name": "MASERATI"
+    },
+    "MAYBACH": {
+        "name": "MAYBACH"
+    },
+    "MAZDA": {
+        "name": "MAZDA"
+    },
+    "McLAREN": {
+        "name": "MCLAREN"
+    },
+    "MERCEDES": {
+        "name": "MERCEDES"
+    },
+    "MG": {
+        "name": "MG"
+    },
+    "MINI": {
+        "name": "MINI"
+    },
+    "MISC": {
+        "name": "MISC"
+    },
+    "MITSUBISHI": {
+        "name": "MITSUBISHI"
+    },
+    "MORRIS": {
+        "name": "MORRIS"
+    },
+    "NISSAN": {
+        "name": "NISSAN"
+    },
+    "OPEL": {
+        "name": "OPEL"
+    },
+    "PEUGEOT": {
+        "name": "PEUGEOT"
+    },
+    "PORSCHE": {
+        "name": "PORSCHE"
+    },
+    "PROTON": {
+        "name": "PROTON"
+    },
+    "RAM": {
+        "name": "RAM"
+    },
+    "RENAULT": {
+        "name": "RENAULT"
+    },
+    "ROLLS-ROYCE": {
+        "name": "ROLLS-ROYCE"
+    },
+    "ROVER": {
+        "name": "ROVER"
+    },
+    "SAAB": {
+        "name": "SAAB"
+    },
+    "SCANIA": {
+        "name": "SCANIA"
+    },
+    "SEAT": {
+        "name": "SEAT"
+    },
+    "SKODA": {
+        "name": "SKODA"
+    },
+    "SMART": {
+        "name": "SMART"
+    },
+    "SSANGYONG": {
+        "name": "SSANGYONG"
+    },
+    "SUBARU": {
+        "name": "SUBARU"
+    },
+    "SUZUKI": {
+        "name": "SUZUKI"
+    },
+    "TATA": {
+        "name": "TATA"
+    },
+    "TD2000": {
+        "name": "TD2000"
+    },
+    "TESLA": {
+        "name": "TESLA"
+    },
+    "TOYOTA": {
+        "name": "TOYOTA"
+    },
+    "TRIUMPH": {
+        "name": "TRIUMPH"
+    },
+    "UNKNOWN": {
+        "name": "UNKNOWN"
+    },
+    "VOLKSWAGEN": {
+        "name": "VOLKSWAGEN"
+    },
+    "VOLVO": {
+        "name": "VOLVO"
+    },
+    "YAMAHA": {
+        "name": "YAMAHA"
+    },
+    "ZX AUTO": {
+        "name": "ZX AUTO"
+    }
+}

@@ -1,0 +1,1 @@
+db.locations.ensureIndex( { location : "2dsphere" } )

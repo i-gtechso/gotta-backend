@@ -1,0 +1,302 @@
+{
+    "ABARTH": {
+        "code": "175599"
+    },
+    "AC": {
+        "code": "199788"
+    },
+    "ALFA ROMEO": {
+        "code": "171316"
+    },
+    "ASIA MOTORS": {
+        "code": "173195"
+    },
+    "ASTON MARTIN": {
+        "code": "184365"
+    },
+    "AUDI": {
+        "code": "173096"
+    },
+    "AUSTIN": {
+        "code": "461603"
+    },
+    "AUSTIN-HEALEY": {
+        "code": "200175"
+    },
+    "BEDFORD": {
+        "code": "186292"
+    },
+    "BENTLEY": {
+        "code": "188865"
+    },
+    "BMW": {
+        "code": "172782"
+    },
+    "BOLWELL": {
+        "code": "235211"
+    },
+    "BUICK": {
+        "code": "494552"
+    },
+    "CADILLAC": {
+        "code": "172678"
+    },
+    "CATERHAM": {
+        "code": "264744"
+    },
+    "CHERY": {
+        "code": "204820"
+    },
+    "CHEVROLET": {
+        "code": "184526"
+    },
+    "CHRYSLER": {
+        "code": "183615"
+    },
+    "CHRYSLER AUSTRALIA": {
+        "code": "238974"
+    },
+    "CITROEN": {
+        "code": "172820"
+    },
+    "CITROËN": {
+        "code": "261154"
+    },
+    "DAEWOO": {
+        "code": "182714"
+    },
+    "DAIHATSU": {
+        "code": "172660"
+    },
+    "DAIMLER": {
+        "code": "195063"
+    },
+    "DODGE": {
+        "code": "183510"
+    },
+    "DS": {
+        "code": "233284"
+    },
+    "EUNOS": {
+        "code": "195785"
+    },
+    "FERRARI": {
+        "code": "183100"
+    },
+    "FIAT": {
+        "code": "171820"
+    },
+    "FORD AUSTRALIA": {
+        "code": "186767"
+    },
+    "FORD USA": {
+        "code": "230314"
+    },
+    "FOTON": {
+        "code": "279949"
+    },
+    "FPV": {
+        "code": "210074"
+    },
+    "GEELY": {
+        "code": "263771"
+    },
+    "GENESIS": {
+        "code": "490539"
+    },
+    "GMC": {
+        "code": "206134"
+    },
+    "GREAT WALL": {
+        "code": "210172"
+    },
+    "HAVAL": {
+        "code": "268516"
+    },
+    "HILLMAN": {
+        "code": "231495"
+    },
+    "HOLDEN": {
+        "code": "186667"
+    },
+    "HONDA": {
+        "code": "172091"
+    },
+    "HSV": {
+        "code": "209547"
+    },
+    "HUMBER": {
+        "code": "238415"
+    },
+    "HUMMER": {
+        "code": "191696"
+    },
+    "HYUNDAI": {
+        "code": "171944"
+    },
+    "INFINITI": {
+        "code": "184699"
+    },
+    "ISUZU": {
+        "code": "171961"
+    },
+    "IVECO": {
+        "code": "218363"
+    },
+    "JAGUAR": {
+        "code": "175551"
+    },
+    "JEEP": {
+        "code": "172803"
+    },
+    "JENSEN": {
+        "code": "199918"
+    },
+    "KIA": {
+        "code": "182744"
+    },
+    "LADA": {
+        "code": "178785"
+    },
+    "LAMBORGHINI": {
+        "code": "263270"
+    },
+    "LANCIA": {
+        "code": "172295"
+    },
+    "LAND ROVER": {
+        "code": "175226"
+    },
+    "LDV": {
+        "code": "233003"
+    },
+    "LEXUS": {
+        "code": "175175"
+    },
+    "LEYLAND-INNOCENTI": {
+        "code": "225450"
+    },
+    "LINCOLN": {
+        "code": "230483"
+    },
+    "LOTUS": {
+        "code": "186458"
+    },
+    "LTI": {
+        "code": "264416"
+    },
+    "MAHINDRA": {
+        "code": "267448"
+    },
+    "MASERATI": {
+        "code": "183496"
+    },
+    "MAYBACH": {
+        "code": "234858"
+    },
+    "MAZDA": {
+        "code": "172649"
+    },
+    "MERCEDES-BENZ": {
+        "code": "172053"
+    },
+    "MERCEDES-BENZ (BBDC)": {
+        "code": "270296"
+    },
+    "MG": {
+        "code": "183350"
+    },
+    "MINI": {
+        "code": "178771"
+    },
+    "MITSUBISHI": {
+        "code": "179635"
+    },
+    "MORGAN": {
+        "code": "264931"
+    },
+    "MORRIS": {
+        "code": "207657"
+    },
+    "NISSAN": {
+        "code": "171431"
+    },
+    "OPEL": {
+        "code": "175361"
+    },
+    "PEUGEOT": {
+        "code": "173016"
+    },
+    "PONTIAC": {
+        "code": "184849"
+    },
+    "PORSCHE": {
+        "code": "172233"
+    },
+    "PROTON": {
+        "code": "183814"
+    },
+    "RAM": {
+        "code": "234467"
+    },
+    "RENAULT": {
+        "code": "171632"
+    },
+    "RILEY": {
+        "code": "200275"
+    },
+    "ROLLS-ROYCE": {
+        "code": "203760"
+    },
+    "ROVER": {
+        "code": "179193"
+    },
+    "SAAB": {
+        "code": "171609"
+    },
+    "SEAT": {
+        "code": "173065"
+    },
+    "SKODA": {
+        "code": "186077"
+    },
+    "SMART": {
+        "code": "189920"
+    },
+    "SSANGYONG": {
+        "code": "173070"
+    },
+    "SUBARU": {
+        "code": "181927"
+    },
+    "SUNBEAM": {
+        "code": "236866"
+    },
+    "SUZUKI": {
+        "code": "172614"
+    },
+    "TATA": {
+        "code": "217531"
+    },
+    "TESLA": {
+        "code": "266292"
+    },
+    "TOYOTA": {
+        "code": "171727"
+    },
+    "TRIUMPH": {
+        "code": "179553"
+    },
+    "TVR": {
+        "code": "265066"
+    },
+    "VAUXHALL": {
+        "code": "200107"
+    },
+    "VOLVO": {
+        "code": "171380"
+    },
+    "VW": {
+        "code": "173116"
+    }
+}

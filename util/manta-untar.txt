@@ -1,0 +1,1 @@
+echo ~~/public/newAAP08012017.tar.gz | mjob create -o --disk=64 -m gzcat -m 'muntar -f $MANTA_INPUT_FILE ~~/public/aap-images-08082017'

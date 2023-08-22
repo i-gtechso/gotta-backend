@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "name": "gotta-backend",
+        "script": "npm start",
+        "watch": true,
+        "NODE_ENV": "production"
+      }
+    ]
+  }
